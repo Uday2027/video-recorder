@@ -9,8 +9,6 @@
 
 📥 Download Recordings: Save recordings locally
 
-📱 Responsive Design: Works on desktop and mobile devices
-
 🎚️ Simple UI: Clean and intuitive interface
 
 **Technologies Used**
